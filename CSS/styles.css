@@ -1,0 +1,14 @@
+header {
+  background:blue;
+  color:rgba(255,255,255, 0.5);
+}
+
+.container {
+  background-color: blue;
+  color: #00FFC8;
+}
+
+#rebar {
+  color:salmon;
+  margin-top: 1000px;
+}
